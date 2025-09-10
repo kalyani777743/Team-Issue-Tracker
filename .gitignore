@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.sqlite3
+/staticfiles/
+/media/
+
+# Virtualenv
+venv/
+ENV/
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Test
+htmlcov/
+.coverage
+
+# S3 placeholder
+*.env

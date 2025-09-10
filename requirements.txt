@@ -1,0 +1,10 @@
+django>=5.2.6
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+django-filter
+Pillow
+channels
+celery
+redis
+daphne
